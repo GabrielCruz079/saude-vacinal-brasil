@@ -16,7 +16,7 @@
 
 | Região Nordeste | Região Sudeste |
 |---|---|
-| ![Nordeste](images/dashboard_nordeste.png) | ![Sudeste](images/dashboard_sudeste.png) |
+| ![Nordeste](images/Dashboard.png) | ![Sudeste](images/Dashboard1.png) |
 
 ---
 
