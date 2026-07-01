@@ -1,0 +1,127 @@
+﻿estado,regiao,vacina,doenca_alvo,ano,doses_aplicadas,populacao_alvo,cobertura_pct
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,620000,650000,95.38
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,600000,655000,91.6
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,570000,658000,86.62
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,540000,660000,81.82
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,510000,663000,76.92
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,480000,665000,72.18
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,495000,667000,74.21
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,510000,669000,76.23
+São Paulo,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,525000,671000,78.24
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,245000,255000,96.08
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,230000,257000,89.49
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,210000,258000,81.4
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,195000,259000,75.29
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,180000,260000,69.23
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,170000,261000,65.13
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,175000,262000,66.79
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,182000,263000,69.2
+Rio de Janeiro,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,188000,264000,71.21
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,310000,320000,96.88
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,295000,322000,91.61
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,278000,324000,85.8
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,260000,326000,79.75
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,245000,328000,74.7
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,235000,330000,71.21
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,242000,331000,73.11
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,250000,332000,75.3
+Minas Gerais,Sudeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,258000,333000,77.48
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,145000,150000,96.67
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,140000,151000,92.72
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,132000,152000,86.84
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,125000,153000,81.7
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,118000,154000,76.62
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,112000,155000,72.26
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,115000,155500,73.95
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,119000,156000,76.28
+Rio Grande do Sul,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,122000,156500,77.96
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,138000,143000,96.5
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,130000,144000,90.28
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,122000,145000,84.14
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,115000,146000,78.77
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,108000,147000,73.47
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,102000,148000,68.92
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,105000,148500,70.71
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,109000,149000,73.15
+Paraná,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,112000,149500,74.92
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,125000,129000,96.9
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,118000,130000,90.77
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,111000,131000,84.73
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,104000,132000,78.79
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,98000,133000,73.68
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,93000,134000,69.4
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,96000,134500,71.37
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,99000,135000,73.33
+Santa Catarina,Sul,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,102000,135500,75.28
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,220000,230000,95.65
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,210000,232000,90.52
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,195000,234000,83.33
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,180000,235000,76.6
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,165000,236000,69.92
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,155000,237000,65.4
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,160000,238000,67.23
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,166000,239000,69.46
+Bahia,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,171000,240000,71.25
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,185000,193000,95.85
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,175000,195000,89.74
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,162000,196000,82.65
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,150000,197000,76.14
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,138000,198000,69.7
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,129000,199000,64.82
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,133000,199500,66.67
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,138000,200000,69.0
+Pernambuco,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,142000,200500,70.82
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,178000,185000,96.22
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,168000,187000,89.84
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,155000,188000,82.45
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,143000,189000,75.66
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,131000,190000,68.95
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,122000,191000,63.87
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,126000,191500,65.8
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,131000,192000,68.23
+Ceará,Nordeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,135000,192500,70.13
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,105000,110000,95.45
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,98000,111000,88.29
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,90000,112000,80.36
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,82000,113000,72.57
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,75000,114000,65.79
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,70000,115000,60.87
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,72000,115500,62.34
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,75000,116000,64.66
+Pará,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,77000,116500,66.09
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,88000,92000,95.65
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,82000,93000,88.17
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,74000,94000,78.72
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,66000,95000,69.47
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,60000,96000,62.5
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,56000,97000,57.73
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,58000,97500,59.49
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,61000,98000,62.24
+Amazonas,Norte,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,63000,98500,63.96
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,115000,120000,95.83
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,108000,121000,89.26
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,100000,122000,81.97
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,92000,123000,74.8
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,85000,124000,68.55
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,79000,125000,63.2
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,82000,125500,65.34
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,85000,126000,67.46
+Goiás,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,88000,126500,69.56
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,95000,99000,95.96
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,89000,100000,89.0
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,82000,101000,81.19
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,75000,102000,73.53
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,68000,103000,66.02
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,63000,104000,60.58
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,65000,104500,62.2
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,68000,105000,64.76
+Mato Grosso,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,70000,105500,66.35
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2015,55000,57000,96.49
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2016,52000,57500,90.43
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2017,48000,58000,82.76
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2018,44000,58500,75.21
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2019,40000,59000,67.8
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2020,37000,59500,62.18
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2021,38000,60000,63.33
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2022,40000,60500,66.12
+Distrito Federal,Centro-Oeste,Tríplice Viral (SCR),"Sarampo, Caxumba, Rubéola",2023,41000,61000,67.21
